@@ -1,4 +1,4 @@
-# nasadrone
+# NASA UAS Senior Design Project
 
 For our senior design project, we are working on making an unmanned aerial system that used bio-inspired strategies to help fire fighters navigate their way inside a burning building. This project is funded by NASA's Glenn Research Center in Cleveland.
 
