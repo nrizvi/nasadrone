@@ -15,6 +15,11 @@ This documentation is currently under construction.
 
 # Neural Networks
 
+FOR FIRE FIGHTING:
+- https://www.researchgate.net/publication/2455198_Neural_Network_Control_for_A_Fire-Fighting_Robot
+- https://link.springer.com/chapter/10.1007/978-3-642-13639-9_15
+
+IN GENERAL:
 - https://www.researchgate.net/publication/264105557_The_Object_Recognition_Using_Multi-Sonar_Sensor_and_Neural_Networks
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6427766/
 
