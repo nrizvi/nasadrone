@@ -7,11 +7,12 @@ This documentation is currently under construction.
 # Flight Controller
 
 - The Pixhawk flight controller is a high-quality and low-cost autopilot. It runs *PX4* on the *NuttX OS*.
+- Brain of the sensors
 
-# Sensors
-
-- *SONAR*: used to navigate in areas where the GPS tracker may not be useful. Will help the drone sense changes in temperature and map the room.
-- *LIDAR*: has a thermal camera mounted on top. used to obtain livestream video & a thermal video from the same viewpoint. the Lidar provides an accurate distance to objects. The Lidar can help the user control the vision of the drone to see inside the room. for example, the Lidar can be used to locate a body that is 30 feet away. 
+# Sensors 
+Connected to Pixhawk.
+- *SONAR*: used to navigate in areas where the GPS tracker may not be useful. uses sound to help the quadcopter navigate.
+- *LIDAR*: uses light to accurately gauge distances to objects. has a thermal camera mounted on top. used to obtain livestream video & a thermal video from the same viewpoint. the Lidar provides an accurate distance to objects. The Lidar can help the user control the vision of the drone to see inside the room. for example, the Lidar can be used to locate a body that is 30 feet away. 
 
 # Neural Networks
 
