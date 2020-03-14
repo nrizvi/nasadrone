@@ -28,3 +28,4 @@ IN GENERAL:
 
 - Intel RealSense Camera T265
 - Intel RealSense Camera D435i
+- Sparkfun Qwiic IR Array MLX90640
