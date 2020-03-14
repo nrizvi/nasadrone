@@ -26,4 +26,5 @@ IN GENERAL:
 
 # Cameras
 
-*To be continued*
+- Intel RealSense Camera T265
+- Intel RealSense Camera D435i
